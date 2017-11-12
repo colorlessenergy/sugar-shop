@@ -1,0 +1,9 @@
+title: shop
+description: shop
+baseurl: /shop-test
+
+api_key: MTMxM2JjYmMtYmIyNi00OTEzLThhOWItOWQ0Mjg0NDU1MTliNjM2NDYxMTc5MDAzNzUxOTc3
+
+collections:
+  products:
+    output: true

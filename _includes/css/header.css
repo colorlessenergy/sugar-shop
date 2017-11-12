@@ -1,0 +1,29 @@
+header {
+  background-image: url(images/christmascookies.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
+
+header div {
+  color: #fff;
+  margin-left: 100px;
+}
+
+header div h1 {
+  font-size: 55px;
+  margin-bottom: 0;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+header div h2 {
+  color: #acacac;
+  letter-spacing: 1px;
+  font-size: 40px;
+  margin-top: 0;
+}
